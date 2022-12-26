@@ -1,1 +1,1 @@
-# MiVet
+MiVet is a mobile and web app startup whose mission is to streamline equine veterinary care through the use of technology. MiVet is an MVP and due to the proprietary nature of the code, only snippets of code are included. This repository includes .NET and SQL code for the ShareStory feature.
